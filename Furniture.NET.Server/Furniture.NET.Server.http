@@ -1,0 +1,6 @@
+@Furniture.NET.Server_HostAddress = http://localhost:5171
+
+GET {{Furniture.NET.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
